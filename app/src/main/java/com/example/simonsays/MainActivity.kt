@@ -101,7 +101,6 @@ fun SimonSaysGame() {
         horizontalAlignment = Alignment.CenterHorizontally
     ) {
 
-        // TITLE FIXED
         Text(
             text = "SIMON SAYS",
             color = Color.White,
